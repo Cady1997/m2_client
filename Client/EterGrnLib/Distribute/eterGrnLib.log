@@ -1,0 +1,17 @@
+﻿  StdAfx.cpp
+  LODController.cpp
+  Material.cpp
+  Mesh.cpp
+  Model.cpp
+  ModelInstance.cpp
+  ModelInstanceCollisionDetection.cpp
+  ModelInstanceModel.cpp
+  ModelInstanceMotion.cpp
+  ModelInstanceRender.cpp
+  ModelInstanceUpdate.cpp
+  Motion.cpp
+  Thing.cpp
+  ThingInstance.cpp
+  Util.cpp
+  Generating Code...
+  eterGrnLib.vcxproj -> D:\.Martysama\s3ll_pack\m2_client\Client\eterGrnLib\Distribute\eterGrnLib.lib

@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="AffectFlagContainer.cpp" />
+    <ClCompile Include="InstanceBase.cpp" />
+    <ClCompile Include="InstanceBaseBattle.cpp" />
+    <ClCompile Include="InstanceBaseEffect.cpp" />
+    <ClCompile Include="InstanceBaseEvent.cpp" />
+    <ClCompile Include="InstanceBaseMotion.cpp" />
+    <ClCompile Include="InstanceBaseMovement.cpp" />
+    <ClCompile Include="InstanceBaseTransform.cpp" />
+    <ClCompile Include="CameraProcedure.cpp" />
+    <ClCompile Include="PythonAcce.cpp" />
+    <ClCompile Include="PythonBackground.cpp" />
+    <ClCompile Include="PythonBackgroundModule.cpp" />
+    <ClCompile Include="PythonCharacterManager.cpp" />
+    <ClCompile Include="PythonCharacterManagerModule.cpp" />
+    <ClCompile Include="PythonCharacterModule.cpp" />
+    <ClCompile Include="PythonEffectModule.cpp" />
+    <ClCompile Include="PythonEventManager.cpp" />
+    <ClCompile Include="PythonEventManagerMoudle.cpp" />
+    <ClCompile Include="PythonGameEventManagerModule.cpp" />
+    <ClCompile Include="PythonItem.cpp" />
+    <ClCompile Include="PythonItemModule.cpp" />
+    <ClCompile Include="PythonNonPlayer.cpp" />
+    <ClCompile Include="PythonNonPlayerModule.cpp" />
+    <ClCompile Include="PythonPlayer.cpp" />
+    <ClCompile Include="PythonPlayerEventHandler.cpp" />
+    <ClCompile Include="PythonPlayerInput.cpp" />
+    <ClCompile Include="PythonPlayerInputKeyboard.cpp" />
+    <ClCompile Include="PythonPlayerInputMouse.cpp" />
+    <ClCompile Include="PythonPlayerModule.cpp" />
+    <ClCompile Include="PythonPlayerSkill.cpp" />
+    <ClCompile Include="PythonQuest.cpp" />
+    <ClCompile Include="PythonSkill.cpp" />
+    <ClCompile Include="PythonChat.cpp" />
+    <ClCompile Include="PythonChatModule.cpp" />
+    <ClCompile Include="PythonExchange.cpp" />
+    <ClCompile Include="PythonExchangeModule.cpp" />
+    <ClCompile Include="PythonFlyModule.cpp" />
+    <ClCompile Include="PythonGuild.cpp" />
+    <ClCompile Include="PythonMessenger.cpp" />
+    <ClCompile Include="PythonMiniMap.cpp" />
+    <ClCompile Include="PythonMiniMapModule.cpp" />
+    <ClCompile Include="PythonSafeBox.cpp" />
+    <ClCompile Include="PythonShop.cpp" />
+    <ClCompile Include="PythonTextTail.cpp" />
+    <ClCompile Include="PythonTextTailModule.cpp" />
+    <ClCompile Include="PythonPackModule.cpp" />
+    <ClCompile Include="ProcessScanner.cpp" />
+    <ClCompile Include="PythonApplication.cpp" />
+    <ClCompile Include="PythonApplicationCamera.cpp" />
+    <ClCompile Include="PythonApplicationCursor.cpp" />
+    <ClCompile Include="PythonApplicationEvent.cpp" />
+    <ClCompile Include="PythonApplicationLogo.cpp" />
+    <ClCompile Include="PythonApplicationModule.cpp" />
+    <ClCompile Include="PythonApplicationProcedure.cpp" />
+    <ClCompile Include="PythonApplicationWebPage.cpp" />
+    <ClCompile Include="PythonIME.cpp" />
+    <ClCompile Include="PythonIMEModule.cpp" />
+    <ClCompile Include="PythonProfilerModule.cpp" />
+    <ClCompile Include="PythonSoundManagerModule.cpp" />
+    <ClCompile Include="PythonSystem.cpp" />
+    <ClCompile Include="PythonSystemModule.cpp" />
+    <ClCompile Include="GuildMarkDownloader.cpp" />
+    <ClCompile Include="GuildMarkUploader.cpp" />
+    <ClCompile Include="MarkImage.cpp" />
+    <ClCompile Include="MarkManager.cpp" />
+    <ClCompile Include="Locale.cpp" />
+    <ClCompile Include="AccountConnector.cpp" />
+    <ClCompile Include="InsultChecker.cpp" />
+    <ClCompile Include="NetworkActorManager.cpp" />
+    <ClCompile Include="ProcessCRC.cpp" />
+    <ClCompile Include="PythonExceptionSender.cpp" />
+    <ClCompile Include="PythonNetworkDatagram.cpp" />
+    <ClCompile Include="PythonNetworkDatagramModule.cpp" />
+    <ClCompile Include="PythonNetworkStream.cpp" />
+    <ClCompile Include="PythonNetworkStreamCommand.cpp" />
+    <ClCompile Include="PythonNetworkStreamEvent.cpp" />
+    <ClCompile Include="PythonNetworkStreamModule.cpp" />
+    <ClCompile Include="PythonNetworkStreamPhaseGame.cpp" />
+    <ClCompile Include="PythonNetworkStreamPhaseGameActor.cpp" />
+    <ClCompile Include="PythonNetworkStreamPhaseGameItem.cpp" />
+    <ClCompile Include="PythonNetworkStreamPhaseHandShake.cpp" />
+    <ClCompile Include="PythonNetworkStreamPhaseLoading.cpp" />
+    <ClCompile Include="PythonNetworkStreamPhaseLogin.cpp" />
+    <ClCompile Include="PythonNetworkStreamPhaseOffline.cpp" />
+    <ClCompile Include="PythonNetworkStreamPhaseSelect.cpp" />
+    <ClCompile Include="ServerStateChecker.cpp" />
+    <ClCompile Include="ServerStateCheckerModule.cpp" />
+    <ClCompile Include="CheckLatestFiles.cpp" />
+    <ClCompile Include="Hackshield.cpp" />
+    <ClCompile Include="NProtectGameGuard.cpp" />
+    <ClCompile Include="WiseLogicXTrap.cpp" />
+    <ClCompile Include="GameType.cpp" />
+    <ClCompile Include="MovieMan.cpp" />
+    <ClCompile Include="StdAfx.cpp" />
+    <ClCompile Include="UserInterface.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AffectFlagContainer.h" />
+    <ClInclude Include="Discord.h" />
+    <ClInclude Include="InstanceBase.h" />
+    <ClInclude Include="PythonAcce.h" />
+    <ClInclude Include="PythonBackground.h" />
+    <ClInclude Include="PythonCharacterManager.h" />
+    <ClInclude Include="PythonEventManager.h" />
+    <ClInclude Include="PythonItem.h" />
+    <ClInclude Include="PythonNonPlayer.h" />
+    <ClInclude Include="PythonPlayer.h" />
+    <ClInclude Include="PythonPlayerEventHandler.h" />
+    <ClInclude Include="PythonQuest.h" />
+    <ClInclude Include="PythonSkill.h" />
+    <ClInclude Include="PythonChat.h" />
+    <ClInclude Include="PythonExchange.h" />
+    <ClInclude Include="PythonGuild.h" />
+    <ClInclude Include="PythonMessenger.h" />
+    <ClInclude Include="PythonMiniMap.h" />
+    <ClInclude Include="PythonSafeBox.h" />
+    <ClInclude Include="PythonShop.h" />
+    <ClInclude Include="PythonTextTail.h" />
+    <ClInclude Include="ProcessScanner.h" />
+    <ClInclude Include="PythonApplication.h" />
+    <ClInclude Include="PythonIME.h" />
+    <ClInclude Include="PythonSystem.h" />
+    <ClInclude Include="GuildMarkDownloader.h" />
+    <ClInclude Include="GuildMarkUploader.h" />
+    <ClInclude Include="MarkImage.h" />
+    <ClInclude Include="MarkManager.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="AbstractApplication.h" />
+    <ClInclude Include="AbstractCharacterManager.h" />
+    <ClInclude Include="AbstractChat.h" />
+    <ClInclude Include="AbstractPlayer.h" />
+    <ClInclude Include="AbstractSingleton.h" />
+    <ClInclude Include="Locale.h" />
+    <ClInclude Include="Locale_inc.h" />
+    <ClInclude Include="AccountConnector.h" />
+    <ClInclude Include="InsultChecker.h" />
+    <ClInclude Include="NetworkActorManager.h" />
+    <ClInclude Include="Packet.h" />
+    <ClInclude Include="ProcessCRC.h" />
+    <ClInclude Include="PythonExceptionSender.h" />
+    <ClInclude Include="PythonNetworkDatagram.h" />
+    <ClInclude Include="PythonNetworkStream.h" />
+    <ClInclude Include="ServerStateChecker.h" />
+    <ClInclude Include="CheckLatestFiles.h" />
+    <ClInclude Include="CRC32_inc.h" />
+    <ClInclude Include="Hackshield.h" />
+    <ClInclude Include="HackshieldLicense.h" />
+    <ClInclude Include="HackshieldLicense_metin2.h" />
+    <ClInclude Include="HackshieldLicense_metin2client.h" />
+    <ClInclude Include="NProtectGameGuard.h" />
+    <ClInclude Include="WiseLogicXTrap.h" />
+    <ClInclude Include="GameType.h" />
+    <ClInclude Include="MovieMan.h" />
+    <ClInclude Include="StdAfx.h" />
+    <ClInclude Include="Test.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Cursors\cursor.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Cursors\cursor_attack.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Cursors\cursor_buy.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Cursors\cursor_camera_rotate.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Cursors\cursor_chair.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Cursors\cursor_door.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Cursors\cursor_hsize.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Cursors\cursor_hvsize.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Cursors\cursor_no.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Cursors\cursor_pick.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Cursors\cursor_sell.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Cursors\cursor_talk.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Cursors\cursor_vsize.cur">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="metin2.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{bb9834e2-1e1b-4ebc-8fce-f955fb142ac2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="UserInterface.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
